@@ -1,4 +1,4 @@
 # FSLL
 Few-Shot Lifelong Learning
 
-## Coming Soon
+python3 run_t1.py --gpu 1
